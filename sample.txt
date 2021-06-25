@@ -8,4 +8,6 @@ Payment mode option
 
 Booking sucess
 
+Clonning master from master repo 
+
 Close
